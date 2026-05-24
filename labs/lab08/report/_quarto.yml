@@ -21,7 +21,7 @@ crossref:
   lof-title: "Список иллюстраций"
   lot-title: "Список таблиц"
   lol-title: "Листинги"
-## Bibliography
+## BibliographyS
 bibliography:
   - bib/cite.bib
 csl: _resources/csl/gost-r-7-0-5-2008-numeric.csl
